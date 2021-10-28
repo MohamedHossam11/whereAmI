@@ -5,3 +5,4 @@
 # Notes:
   - Please install nodeJS before running this application
   - Please run `npm install` in the directory of the application before running it.
+  - Run `node index.js` to run the application
